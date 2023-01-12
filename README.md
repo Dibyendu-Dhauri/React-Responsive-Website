@@ -1,3 +1,14 @@
+# Responsive React Website
+
+This is a Responsive Website Using React and Styled Component.
+We add Animation & Image in this Website. The features of this Website are :
+ [Navbar, Intro, Features, Serives, Price, Contact, Footer].
+
+This Project is Live on : https://peaceful-pithivier-95c270.netlify.app/
+## Live Demo
+My gif
+![](https://github.com/Dibyendu10/React-Responsive-Website/blob/bcb9edfd94815f069810fb2539563cd291e685e3/React%20Responsive%20Website.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
