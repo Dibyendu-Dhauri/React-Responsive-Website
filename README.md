@@ -5,7 +5,8 @@ This is a Responsive Website Using React and Styled Component.
 We add Animation & Image in this Website. The features of this Website are :
  [Navbar, Intro, Features, Serives, Price, Contact, Footer].
 
-**This Project is Live on ** :https://peaceful-pithivier-95c270.netlify.app/ 
+This Project is Live on :https://peaceful-pithivier-95c270.netlify.app/ 
+
 ## Live Demo
 
 ![GIF](https://user-images.githubusercontent.com/91137992/212163601-14ca3e7a-1c5f-415e-b4db-0a843ffd977e.gif)
